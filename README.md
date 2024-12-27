@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <br>
 
-  <img src="https://img.shields.io/badge/?style=for-the-badge&&label=jpa"/> 
+  <img src="https://img.shields.io/badge/jpa-232F3E?style=for-the-badge&logo=jpa&logoColor=white"/>
   <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=for-the-badge&logo=QueryDSL&logoColor=white"/>
   <img src="https://img.shields.io/badge/?style=for-the-badge&logo=&label=mybatis"/>
   <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
