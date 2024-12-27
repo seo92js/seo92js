@@ -13,13 +13,12 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
   <br>
 
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&&label=jpa-logo-color=fafafa"/> 
+  <img src="https://img.shields.io/badge/-59666C?style=for-the-badge&&label=jpa-logo-color=fafafa"/> 
   <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=for-the-badge&logo=QueryDSL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-B7178C?style=for-the-badge&logo=&label=mybatis-logo-color=fafafa"/>
+  <img src="https://img.shields.io/badge/-B7178C?style=for-the-badge&logo=&label=mybatis-logo-color=fafafa"/>
+  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
   <br>
   
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
