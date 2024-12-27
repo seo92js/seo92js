@@ -17,7 +17,7 @@
 
   <img src="https://img.shields.io/badge/jpa-232F3E?style=for-the-badge&logo=jpa&logoColor=white"/>
   <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=for-the-badge&logo=QueryDSL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mybatis?style=for-the-badge&logo=MYBATIS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mybatis-232F3E?style=for-the-badge&logo=mybatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
   <br>
   
