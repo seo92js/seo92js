@@ -40,4 +40,5 @@
   <img src="https://img.shields.io/badge/Logstash-FECE2E?style=for-the-badge&logo=&labelColor=A5A5A5"/>
   <img src="https://img.shields.io/badge/prometheus-FF6C37?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/loki-F46800?style=for-the-badge&logo=loki&logoColor=white"/>
 </div>
