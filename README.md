@@ -8,6 +8,7 @@
 
 - [#190](https://github.com/chattymin/PokeTokenBar/pull/190) — Restored Antigravity usage parsing; integrated and merged via [#182](https://github.com/chattymin/PokeTokenBar/pull/182).
 - [#382](https://github.com/chattymin/PokeTokenBar/pull/382) — Fixed duplicate Rare Candy grants caused by reset timestamp jitter.
+- [#383](https://github.com/chattymin/PokeTokenBar/pull/383) — Fixed Kiro usage undercounting by including tool and thinking content.
 
 </details>
 
