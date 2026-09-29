@@ -1,3 +1,18 @@
+## Open Source Contributions
+
+<details>
+<summary>
+  <strong>PokeTokenBar</strong> ·
+  <a href="https://github.com/chattymin/PokeTokenBar">Repository ↗</a>
+</summary>
+
+- [#190](https://github.com/chattymin/PokeTokenBar/pull/190) — Restored Antigravity usage parsing; integrated and merged via [#182](https://github.com/chattymin/PokeTokenBar/pull/182).
+- [#382](https://github.com/chattymin/PokeTokenBar/pull/382) — Fixed duplicate Rare Candy grants caused by reset timestamp jitter.
+
+</details>
+
+## Stack
+
 <div align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
