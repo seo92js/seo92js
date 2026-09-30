@@ -2,6 +2,15 @@
 
 <details>
 <summary>
+  <strong>Spring AI</strong> ·
+  <a href="https://github.com/spring-projects/spring-ai">Repository ↗</a>
+</summary>
+
+- [#7078](https://github.com/spring-projects/spring-ai/pull/7078) — Fixed Date normalization in SimpleVectorStore IN/NIN filters; added regression tests.
+</details>
+
+<details>
+<summary>
   <strong>PokeTokenBar</strong> ·
   <a href="https://github.com/chattymin/PokeTokenBar">Repository ↗</a>
 </summary>
@@ -9,7 +18,6 @@
 - [#190](https://github.com/chattymin/PokeTokenBar/pull/190) — Restored Antigravity usage parsing; integrated and merged via [#182](https://github.com/chattymin/PokeTokenBar/pull/182).
 - [#382](https://github.com/chattymin/PokeTokenBar/pull/382) — Fixed duplicate Rare Candy grants caused by reset timestamp jitter.
 - [#383](https://github.com/chattymin/PokeTokenBar/pull/383) — Fixed Kiro usage undercounting by including tool and thinking content.
-
 </details>
 
 ## Stack
