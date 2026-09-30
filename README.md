@@ -3,7 +3,7 @@
 <details>
 <summary>
   <strong>Spring AI</strong> ·
-  <a href="https://github.com/spring-projects/spring-ai">Repository ↗</a>
+  <a href="https://github.com/spring-projects/spring-ai">Repository</a>
 </summary>
 
 - [#7078](https://github.com/spring-projects/spring-ai/pull/7078) — Fixed Date normalization in SimpleVectorStore IN/NIN filters; added regression tests.
@@ -12,7 +12,7 @@
 <details>
 <summary>
   <strong>PokeTokenBar</strong> ·
-  <a href="https://github.com/chattymin/PokeTokenBar">Repository ↗</a>
+  <a href="https://github.com/chattymin/PokeTokenBar">Repository</a>
 </summary>
 
 - [#190](https://github.com/chattymin/PokeTokenBar/pull/190) — Restored Antigravity usage parsing; integrated and merged via [#182](https://github.com/chattymin/PokeTokenBar/pull/182).
