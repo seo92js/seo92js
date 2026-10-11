@@ -1,3 +1,14 @@
+## Open Source Projects
+<details>
+<summary>
+  <strong>Sidewit</strong> ·
+  <a href="https://github.com/seo92js/sidewit">Repository</a>
+</summary>
+
+An AI worker that turns context and natural-language intent into reviewable operations. Your application controls execution.
+
+</details>
+
 ## Open Source Contributions
 
 <details>
